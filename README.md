@@ -11,3 +11,5 @@ This is the practice individual project for building the painting board using Va
 HTML, CSS, and Javascript
 
 ![image](https://user-images.githubusercontent.com/76824986/141842791-e077648f-8a51-4763-8620-3eecce7ffb00.png)
+
+![image](https://user-images.githubusercontent.com/76824986/141842997-d8d77ff3-134f-4770-8010-ff176c9f0490.png)
