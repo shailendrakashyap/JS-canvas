@@ -1,4 +1,4 @@
-# javascript_paintJS
+# JS-canvas
 This is the practice individual project for building the painting board using Vanilla Javascript.
 
 # Features
@@ -7,7 +7,7 @@ This is the practice individual project for building the painting board using Va
 3. Adjust the size of brush using control bar
 4. Save pictures automatically on the user's computer drive by clicking SAVE button
 
-# Language
+# Languages
 HTML, CSS, and Javascript
 
 # Images
